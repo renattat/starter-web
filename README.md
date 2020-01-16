@@ -4,7 +4,7 @@ This is a si,ple web site project for showing how to use GIT
 
 This repository is for showing how Git and GitHub work together
 
-ADDING a line for rebasing wxample.
+ADDING a line for rebasing wxample. then more chnsges from fff branch
 
 ## Intoduction
 
