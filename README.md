@@ -10,6 +10,10 @@ This is example is to show different parts of the GIT repository and various com
 
 ## Purpose
 
+As stated  above, the main purpose
+
 Sample website with plenty of files for demos
 
 ## Deployment
+
+This is a simple web project
