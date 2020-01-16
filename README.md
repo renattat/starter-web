@@ -21,3 +21,7 @@ This is a simple web project
 ### Copyright
 
 GIT.training
+
+## How to Contribute
+
+Please fork this repository
