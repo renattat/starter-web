@@ -27,3 +27,5 @@ GIT.training
 ## How to Contribute
 
 Please fork this repository
+
+## STASH stauff
